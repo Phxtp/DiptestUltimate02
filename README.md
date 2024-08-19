@@ -1,2 +1,4 @@
 # DiptestUltimate02
-Phet Phatthanasutthinon
+Name: Phet Phatthanasutthinon
+No.12
+Student ID: 46148
